@@ -1,0 +1,2 @@
+type_confidential,id,fk_user_role_id
+secret operation,1,1
